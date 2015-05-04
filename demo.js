@@ -56,7 +56,7 @@
   
   
   var config = {
-      tileUrl : 'http://{s}.tiles.mapbox.com/v3/openplans.map-g4j0dszr/{z}/{x}/{y}.png',
+      tileUrl : 'http://{s}.tiles.mapbox.com/v4/rukku.map-ynzkstd9/{z}/{x}/{y}.png',
       overlayTileUrl : 'http://{s}.tiles.mapbox.com/v3/intertwine.nyc_bike_overlay/{z}/{x}/{y}.png',
       tileAttrib : 'Map tiles &copy; Development Seed and Data from <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, ',
       initLatLng : new L.LatLng(  14.654343736166062,  121.0664176940918), // NYC
